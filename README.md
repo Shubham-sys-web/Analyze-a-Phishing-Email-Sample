@@ -4,8 +4,7 @@
 
 This is the link of sample
 
-[**phishing_pot/email/sample-1009.eml at main · rf-peixoto/phishing_potA collection of phishing samples for researchers and detection developers. - phishing_pot/email/sample-1009.eml at main…**
-github.com](https://github.com/rf-peixoto/phishing_pot/blob/main/email/sample-1009.eml?source=post_page-----ea539b6d11ed---------------------------------------)
+https://github.com/Shubham-sys-web/Analyze-a-Phishing-Email-Sample/blob/main/Sample.eml
 
 **2.Examine sender’s email address for spoofing.**
 
